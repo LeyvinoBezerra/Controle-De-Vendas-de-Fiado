@@ -1,8 +1,8 @@
 # Cardeneta Online 
-## Aplicação de vendas para pequenos Nergocios no EXCEL VBA
+## Aplicação de vendas para pequenos Nergocio 
 
 ## Ferramentas e tecnologias
-- Microsoft Excel vba
+- Microsoft Excel VBA
 
 ### Author: Leyvino Bezerra
 ### License: MIT 
